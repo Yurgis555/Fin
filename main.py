@@ -2,10 +2,8 @@
 
 
 from biudzetas import Biudzetas
-from irasas import Irasas
-from pajamuirasas import PajamuIrasas
-from islaiduirasas import IslaiduIrasas
 
+print('----------------------------------------')
 mano_biudzetas = Biudzetas()
 
 while True:

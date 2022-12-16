@@ -1,6 +1,6 @@
 from pajamuirasas import PajamuIrasas
 from islaiduirasas import IslaiduIrasas
-
+#exp 1
 
 class Biudzetas():
     def __init__(self):
